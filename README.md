@@ -23,7 +23,7 @@
 </div>
 <div> 
   <h3>Mobile Verify</h3>
-  <img src="https://github.com/Shanu-Git2002/firebase_project/assets/121647061/230dbe58-4a4e-4d94-8872-ba99b24c28ca" width="370" height="230px"> 
+  <img src="https://github.com/Shanu-Git2002/firebase_project/assets/121647061/230dbe58-4a4e-4d94-8872-ba99b24c28ca.png" width="370" height="230px"> 
 </div>
 
 ## How to Install
