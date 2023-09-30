@@ -32,5 +32,5 @@
 * Clone the project onto your local machine.
 * Then cd vite-project
 * npm install
-* npm start
+* npm run dev
 * Visit your app at  http://localhost:5173/
