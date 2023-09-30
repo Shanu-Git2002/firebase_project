@@ -12,11 +12,13 @@
 <div>
    <img src="https://github.com/Shanu-Git2002/firebase_project/assets/121647061/4e68b1db-8fe9-4c32-bd3a-db1f7d7c83d4" width="370" height="230px"> 
 </div>
-![image](
 
 ## 👉 signup page
+<div>
+   <img src="https://github.com/Shanu-Git2002/firebase_project/assets/121647061/84c9e4c6-015f-4293-9a06-d41c648ca2cf.png" width="370" height="230px"> 
+</div>
 
-![image](https://github.com/Shanu-Git2002/firebase_project/assets/121647061/84c9e4c6-015f-4293-9a06-d41c648ca2cf)
+![image]()
 
 ## 👉 Home Page
 
