@@ -22,8 +22,6 @@
 
 ## 👉 Home Page
 
-![image](https://github.com/Shanu-Git2002/firebase_project/assets/121647061/230dbe58-4a4e-4d94-8872-ba99b24c28ca)
-
 <div> 
   <h3>Home Page</h3>
   <img src="https://github.com/Shanu-Git2002/firebase_project/assets/121647061/230dbe58-4a4e-4d94-8872-ba99b24c28ca.png" width="370" height="230px"> 
@@ -32,7 +30,7 @@
 ## How to Install
 
 * Clone the project onto your local machine.
-* Then cd SahiNotes
+* Then cd vite-project
 * npm install
 * npm start
-* Visit your app at http://localhost:3000.
+* Visit your app at  http://localhost:5173/
