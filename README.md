@@ -18,8 +18,6 @@
    <img src="https://github.com/Shanu-Git2002/firebase_project/assets/121647061/84c9e4c6-015f-4293-9a06-d41c648ca2cf.png" width="370" height="230px"> 
 </div>
 
-![image]()
-
 ## 👉 Home Page
 
 <div> 
