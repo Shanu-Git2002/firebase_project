@@ -1,13 +1,12 @@
 # 🎉Firebase Project 🎉
 <div> 
   <img src="https://github.com/Shanu-Git2002/firebase_project/assets/121647061/1ef1fde5-fbc3-4c1a-bc55-71d27ea3a47e.png" width="370" height="230px"> 
-  
-  <img src="https://github.com/Shanu-Git2002/firebase_project/assets/121647061/d6ce943f-179c-45ba-badc-05c49590cd1a.png" width="370" height="230px"> 
 </div>
 
 ## 👉 working process
-
-https://github.com/Shanu-Git2002/firebase_project/assets/121647061/d6ce943f-179c-45ba-badc-05c49590cd1a.png
+<div>
+   <img src="https://github.com/Shanu-Git2002/firebase_project/assets/121647061/d6ce943f-179c-45ba-badc-05c49590cd1a.png" width="370" height="230px"> 
+</div>
 
 ## 👉 Login Page
 
