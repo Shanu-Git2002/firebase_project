@@ -1,8 +1,7 @@
-# react + vite
-🎉Firebase Project 🎉
+#🎉Firebase Project 🎉
 ![Screenshot (365)](https://github.com/Shanu-Git2002/firebase_project/assets/121647061/1ef1fde5-fbc3-4c1a-bc55-71d27ea3a47e)
 
-👉 working process
+#👉 working process
 
 ![image](https://github.com/Shanu-Git2002/firebase_project/assets/121647061/d6ce943f-179c-45ba-badc-05c49590cd1a)
 
